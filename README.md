@@ -1,5 +1,8 @@
 ## Antkky 👾
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antkky)](https://github.com/Antkky/github-readme-stats)
+
+
 <!--
 **Antkky/Antkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
