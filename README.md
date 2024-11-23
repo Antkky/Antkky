@@ -1,6 +1,6 @@
 ## Antkky 👾
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antkky)](https://github.com/Antkky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antkky&theme=dark)](https://github.com/Antkky/github-readme-stats)
 
 
 <!--
