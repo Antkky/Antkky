@@ -9,7 +9,7 @@
 - 👶 Coding Since 9yo and trading at 12
 
 ## 🏗️ Current Projects
-- 🔹 **Day Trading AI** – Reinforcement learning model for order flow & volume-based predictions
+- 🔹 **Deep QLearning Intraday-Trading AI** – Reinforcement learning model for order flow & volume-based predictions
 - 🔹 **Monte Carlo Options Pricing** – C++ framework for simulating options price movements
 - 🔹 **Crypto Exchange Data Collector** - Multithreaded data collector for multiple crypto exchanges then uploads to AWS s3
 - 🔹 **Statistical Arbitrage Trading Algo** - Research repo for a Euro Pound stat arb strategy with backtrader & jupyter notebook
