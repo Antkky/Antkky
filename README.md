@@ -1,19 +1,39 @@
-## Antkky 👾
+# 👋 Hi, I'm Antkky (Anthony Hall)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antkky&theme=dark)](https://github.com/Antkky/github-readme-stats)
+## 🚀 About Me
+- 🏦 Quant & AI Developer | Day Trader
+- 📊 Passionate about financial technology, AI, and algorithmic trading
+- 🤖 Building ML & deep learning models for market prediction
+- 🎓 Studying mathmatics, economics, computer science
+- 🛠️ Experienced in Python, JavaScript, C#, and more
+- 👶 Coding Since 9yo and trading at 12
 
+## 🏗️ Current Projects
+- 🔹 **Day Trading AI** – Reinforcement learning model for order flow & volume-based predictions
+- 🔹 **Monte Carlo Options Pricing** – C++ framework for simulating options price movements
+- 🔹 **Crypto Exchange Data Collector** - Multithreaded data collector for multiple crypto exchanges then uploads to AWS s3
+- 🔹 **Statistical Arbitrage Trading Algo** - Research repo for a Euro Pound stat arb strategy with backtrader & jupyter notebook
 
-<!--
-**Antkky/Antkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-Here are some ideas to get you started:
+**Frameworks & Tools:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)  
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)  
+![Rithmic API](https://img.shields.io/badge/Rithmic-000000?style=for-the-badge&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals & Interests  
+- 🛠️ Enhance my AI-based trading models  
+- 📚 Expand knowledge in financial engineering & computational finance
+- 💡 Build fintech tools that provide value & easier workflows for traders
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/antkky)
+- 📝 [Instagram](https://www.instagram.com/antkkyx)
+- 📬 [Email](mailto:anthony@hallcapital.org)
