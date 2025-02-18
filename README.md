@@ -42,4 +42,4 @@
 - 📬 [Email](mailto:anthony@hallcapital.org)
 
 ## Github Stats
-[![Antkky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antkky)](https://github.com/Antkky/repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antkky&size_weight=0.5&count_weight=0.5)
