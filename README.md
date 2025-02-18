@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)  
-![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white)  
+![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)  
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-white?style=for-the-badge&logo=express&logoColor=black)  
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=black)  
 
