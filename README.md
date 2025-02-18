@@ -40,3 +40,6 @@
 - 💼 [LinkedIn](www.linkedin.com/in/antkky)
 - 📝 [Instagram](https://www.instagram.com/antkkyx)
 - 📬 [Email](mailto:anthony@hallcapital.org)
+
+## Github Stats
+[![Antkky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antkky)](https://github.com/Antkky/repositories)
