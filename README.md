@@ -4,7 +4,7 @@
 - 🏦 Quant & AI Developer | Day Trader
 - 📊 Passionate about financial technology, AI, and algorithmic trading
 - 🤖 Building ML & deep learning models for market prediction
-- 🎓 Studying mathmatics, economics, computer science
+- 🎓 Studying mathematics, economics, computer science
 - 🛠️ Experienced in Python, JavaScript, C#, and more
 - 👶 Coding Since 9yo and trading at 12
 
