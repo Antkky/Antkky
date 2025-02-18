@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antkky (Anthony Hall)
+# Hi, I'm Antkky (Anthony Hall)
 
 ## About Me
 - 🏦 Quant & AI Developer | Day Trader
