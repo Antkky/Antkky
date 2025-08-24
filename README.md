@@ -1,18 +1,11 @@
 # Hi, I'm Antkky (Anthony Hall)
 
 ## About Me
-- 🏦 Quant & AI Developer | Day Trader
-- 📊 Passionate about financial technology, AI, and algorithmic trading
-- 🤖 Building ML & deep learning models for market prediction
-- 🎓 Studying mathematics, economics, computer science
-- 🛠️ Experienced in Python, JavaScript, C#, and more
-- 👶 Coding Since 9yo and trading at 12
-
-## Current Projects
-- 🔹 **Deep QLearning Intraday-Trading AI** – Reinforcement learning model for order flow & volume-based predictions
-- 🔹 **Monte Carlo Options Pricing** – C++ framework for simulating options price movements
-- 🔹 **Crypto Exchange Data Collector** - Multithreaded data collector for multiple crypto exchanges then uploads to AWS s3
-- 🔹 **Statistical Arbitrage Trading Algo** - Research repo for a Euro Pound stat arb strategy with backtrader & jupyter notebook
+- Quant, AI, and Full Stack Developer
+- Passionate about financial technology, AI, and algorithmic trading
+- Math Major and CS Minor
+- Experienced in Python, JavaScript, C#, C++ (basically any language)
+- Coding Since 9yo and trading at 12
 
 ## Tech Stack
 **Languages:**  
@@ -30,11 +23,6 @@
 ![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)  
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-white?style=for-the-badge&logo=express&logoColor=black)  
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=black)  
-
-## Goals & Interests  
-- 🛠️ Enhance my AI-based trading models  
-- 📚 Expand knowledge in financial engineering & computational finance
-- 💡 Build fintech tools that provide value & easier workflows for traders
 
 ## Connect with Me
 - 💼 [LinkedIn](www.linkedin.com/in/antkky)
