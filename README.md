@@ -1,7 +1,7 @@
 # Hi, I'm Antkky (Anthony Hall)
 
 ## About Me
-- Quant, AI, and Full Stack Developer
+- Full Stack Backend Quant Developer
 - Passionate about financial technology, AI, and algorithmic trading
 - Math Major and CS Minor
 - Experienced in Python, Typescript React, Go, C#, C++
