@@ -7,7 +7,7 @@
 - Experienced in Python, JavaScript, C#, C++ (basically any language)
 - Coding Since 9yo and trading at 12
 
-## Connect with Me
+## Links
 - 💼 [LinkedIn](www.linkedin.com/in/antkky)
 - 📝 [Instagram](https://www.instagram.com/antkkyx)
 - 📬 [Email](mailto:anthony@hallcapital.org)
