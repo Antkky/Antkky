@@ -4,7 +4,7 @@
 - Quant, AI, and Full Stack Developer
 - Passionate about financial technology, AI, and algorithmic trading
 - Math Major and CS Minor
-- Experienced in Python, JavaScript, C#, C++ (basically any language)
+- Experienced in Python, Typescript React, Go, C#, C++
 - Coding Since 9yo and trading at 12
 
 ## Links
